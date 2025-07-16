@@ -1,4 +1,3 @@
-<img width="1278" height="665" alt="image" src="https://github.com/user-attachments/assets/6a511a8f-f77c-4b2f-8c2f-efe4a0da03b4" /># Netflix-Analysis-
 A creative dashboard of netflix shows analyasis
 To build this dashboard, I used Microsoft Excel for cleaning the dataset. The raw data had missing values and unstructured columns, so I formatted the columns, removed null entries, and made it ready for Tableau. After that, I used Tableau Desktop to connect the data and create multiple charts to visualize it in an engaging and interactive format.
 
